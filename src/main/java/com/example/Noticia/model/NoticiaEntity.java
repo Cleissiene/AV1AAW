@@ -43,7 +43,6 @@ public class NoticiaEntity {
         this.titulo = titulo;
     }
 
-    // Construtor vazio
     public NoticiaEntity() {
 
     }
